@@ -1,0 +1,5 @@
+untrusted comment: verify with wayland-aarch64.pub
+RWQFMIzP6DJ3c+Yg1n/yauQgPvHB83RArs1RaGKEVex7H+Hsg0nDNh1jZ588jZS9CGoyy1lBcuP+dtb1u0mph4lTZ2NRbUtxCQg=
+SHA256 (Pkgfile) = 23d5bb004ed559a3cf0da2e15d1c934f699ed10037484edc05aae6a8ab6b6eb8
+SHA256 (.footprint) = dceed3f33805b7f9286087e9f755e52a98e4dfea4bc3effa6bedf0b08db3d5ed
+SHA256 (libdrm-2.4.120.tar.xz) = 3bf55363f76c7250946441ab51d3a6cc0ae518055c0ff017324ab76cdefb327a
