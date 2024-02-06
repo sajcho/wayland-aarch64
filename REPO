@@ -1,4 +1,5 @@
 d:gegl
+d:firefox
 d:python3-cairo
 d:babl
 d:python3-gobject
@@ -8,6 +9,13 @@ d:lm-sensors
 f:f28e133d7e5f5bba371ff5de7f57c09b:gegl/Pkgfile
 f:97b287eab47c0453ff8bb1ce96f47699:gegl/.signature
 f:13b42a9dc4ae2a7bdd820a1721148af6:gegl/.footprint
+f:73472eae5b4777be69fb33cc08441db0:firefox/icu74.patch
+f:5091fe1092664a619b82ddf8db1d7b7c:firefox/Pkgfile
+f:992cf7c18cf1b6fcfe98d64b0602b71a:firefox/distribution.ini
+f:cf6971669f70b440cb6ff8df8b2722ae:firefox/firefox.desktop
+f:d8743848c9164555d67d256814b91bd6:firefox/vendor.js
+f:12b237626163d3883230cd2b39c644ff:firefox/.signature
+f:70767873ae5af299fa09cdb23f15f605:firefox/.footprint
 f:b850f263eeb47801f9b5f622c8a1a14b:python3-cairo/Pkgfile
 f:fe221552030885aa60616c37e0afa7d0:python3-cairo/.signature
 f:632b5f6fc05f1282f1e99989e521f34d:python3-cairo/.footprint
