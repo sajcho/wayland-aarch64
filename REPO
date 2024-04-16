@@ -10,11 +10,11 @@ f:8475fc16a1f97d507eebab3ed3ea6288:gegl/Pkgfile
 f:578f27f4615ab5ec0d3974f35afc0bad:gegl/.signature
 f:bd391d6ec86f22468a0dd389f5cc5ef8:gegl/.footprint
 f:73472eae5b4777be69fb33cc08441db0:firefox/icu74.patch
-f:69a4873c6ebe00a21277996e86f66792:firefox/Pkgfile
+f:69c968fa5efece02aa10ec1138facbaa:firefox/Pkgfile
 f:992cf7c18cf1b6fcfe98d64b0602b71a:firefox/distribution.ini
 f:df683bf99d228eede39197eb47679478:firefox/firefox.desktop
 f:d8743848c9164555d67d256814b91bd6:firefox/vendor.js
-f:aa6be3a477443dc376d9023477d9cb71:firefox/.signature
+f:40ccb230c910182ea703426333acbe4f:firefox/.signature
 f:70767873ae5af299fa09cdb23f15f605:firefox/.footprint
 f:382cf13f1f023bedcb6368d8c0964937:python3-cairo/Pkgfile
 f:663f6dedbaa3f6ff74d9a3ff25eac368:python3-cairo/.signature
@@ -22,9 +22,9 @@ f:7cda5a7f3cbd6e13accdbd311ffdba2b:python3-cairo/.footprint
 f:0422c671bd83104aaa6217c8ca3ef3db:babl/Pkgfile
 f:7bd6325c0cadf5813aeedf7d5bc1e92d:babl/.signature
 f:852dee8a9b949bf4a4011c070c556a43:babl/.footprint
-f:67e084d794a9e237deabb7253184e65c:python3-gobject/Pkgfile
-f:ff9e03918f322b26b665f7ed6fc96406:python3-gobject/.signature
-f:904e239679be1386eaf2bd87fc64c48a:python3-gobject/.footprint
+f:ac6b06c9954ab1023a01edcb9994f7d6:python3-gobject/Pkgfile
+f:2ccfc7e262c56f1814130cdc28c5ef41:python3-gobject/.signature
+f:b57f46815930499b5eb204e51b241386:python3-gobject/.footprint
 f:cb4103c19096a652f5a0ff2b3b323e16:libdrm/Pkgfile
 f:1a398c1787c6c3cddcb919db4ac966fd:libdrm/.signature
 f:4316233b989dbb91664c468f19f0b9ce:libdrm/.footprint
