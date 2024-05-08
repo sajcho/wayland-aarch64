@@ -10,11 +10,10 @@ f:8475fc16a1f97d507eebab3ed3ea6288:gegl/Pkgfile
 f:578f27f4615ab5ec0d3974f35afc0bad:gegl/.signature
 f:bd391d6ec86f22468a0dd389f5cc5ef8:gegl/.footprint
 f:73472eae5b4777be69fb33cc08441db0:firefox/icu74.patch
-f:aa53007abaf061a8b38f12fe1ff3b8f1:firefox/Pkgfile
-f:992cf7c18cf1b6fcfe98d64b0602b71a:firefox/distribution.ini
-f:df683bf99d228eede39197eb47679478:firefox/firefox.desktop
-f:d8743848c9164555d67d256814b91bd6:firefox/vendor.js
-f:78037744c256e141b297c6931c37a2de:firefox/.signature
+f:0e93c7dd5eb0ce911c6182bdc43160b4:firefox/encoding_rs-to-0.8.34-to-deal-wit.patch
+f:333b95aa8be5bceb5ec1b16eb562dcb5:firefox/Pkgfile
+f:2b9c0c88200fa4a33a2dc2f9cf15dcea:firefox/firefox.desktop
+f:be8d34471c134d200b27f7dfcc95a541:firefox/.signature
 f:70767873ae5af299fa09cdb23f15f605:firefox/.footprint
 f:382cf13f1f023bedcb6368d8c0964937:python3-cairo/Pkgfile
 f:663f6dedbaa3f6ff74d9a3ff25eac368:python3-cairo/.signature
