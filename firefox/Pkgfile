@@ -4,16 +4,17 @@
 # Depends on:	autoconf-2.13 cbindgen ffmpeg libidl libnotify lld nodejs nss unzip zip
 
 name=firefox
-version=125.0.2
+version=125.0.3
 release=1
 source=(https://ftp.mozilla.org/pub/firefox/releases/${version}/source/${name}-${version}.source.tar.xz \
+	encoding_rs-to-0.8.34-to-deal-wit.patch \
 	icu74.patch \
-	distribution.ini \
-	firefox.desktop \
-	vendor.js)
+	firefox.desktop)
 
 build() {
 	cd ${name}-${version}
+
+	patch -p1 -i $SRC/encoding_rs-to-0.8.34-to-deal-wit.patch
 
 	patch -p1 -i $SRC/icu74.patch
 
@@ -101,12 +102,6 @@ EOF
 	./mach build
 
 	DESTDIR=$PKG ./mach install
-
-	# optional - change to suit your needs
-	#install -D -m 0644 $SRC/distribution.ini \
-	#	$PKG/usr/lib/firefox/distribution/distribution.ini
-	#install -D -m 0644 $SRC/vendor.js \
-	#	$PKG/usr/lib/firefox/browser/defaults/preferences/vendor.js
 
 	install -D -m 0644 $SRC/firefox.desktop \
 		$PKG/usr/share/applications/firefox.desktop
