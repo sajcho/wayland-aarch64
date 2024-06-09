@@ -1,8 +1,8 @@
 untrusted comment: verify with wayland-aarch64.pub
-RWQFMIzP6DJ3cxcavuTvAM0mr4CqBkYrKzUBTw+7nlgghEzD1KMcKxabzbP0aPrFrLyVFefK0BD1UjIFQneX0B/MXqOs64w7wgQ=
-SHA256 (Pkgfile) = fdc96b52cf675e0c22333ae9bbf37704ef7587859a83c45b5b3a666bc339f3c9
+RWQFMIzP6DJ3c/M4jJuoUlwzGaC0ZY+2p7UXghSEMhfG/jUOksXGx0zfOBnfrA0VhGii/HByda8VxmbEpn2L4HjFqXMnUx1hawU=
+SHA256 (Pkgfile) = b9bef52ecdc31023927bcd0dff36b4973c37280c716a55563d5589d30101db23
 SHA256 (.footprint) = 05157c76b135acee315da7264a7a8c9bee74ed9c407074c98f4b517e2e031656
-SHA256 (firefox-125.0.3.source.tar.xz) = 461c66b85e4a0345dcce422d3b66212489f3cca8f22a9a8f43a07a0c98bd5616
-SHA256 (encoding_rs-to-0.8.34-to-deal-wit.patch) = 61243b704cc8340af9991580c744c412d94244f4bedcdcd5f351e63484ab638e
+SHA256 (firefox-126.0.1.source.tar.xz) = f63026359f678a5d45cea4c7744fcef512abbb58a5b016bbbb1c6ace723a263b
+SHA256 (0001-Bug-1882209-Update-encoding_rs-to-0.8.34-to-deal-wit.patch) = 22c030ef8a047802ae56d20b1c2a6a3830e9a5ac4e5399163a2b57a1c09a20b2
 SHA256 (icu74.patch) = 83f4ea4cb5b89f81bfc9f42cc3d3f16e4df8bf3a2c9f0c27e90032c759a2ab86
 SHA256 (firefox.desktop) = 4460566279ad520ac885d2bd651cbca58461baec3e5bb1aeb75fa48b9de64dff
