@@ -26,9 +26,9 @@ f:b57f46815930499b5eb204e51b241386:python3-gobject/.footprint
 f:eb5d8244ddd5821c88be8cbf94ea8314:libdrm/Pkgfile
 f:157707ebb621d6fd5883ea99ccd99c3f:libdrm/.signature
 f:4316233b989dbb91664c468f19f0b9ce:libdrm/.footprint
-f:67887ddaee28f394bff07e2c1dc72912:python3-markupsafe/Pkgfile
-f:554ab64a8e97354dc4e946584199426d:python3-markupsafe/.signature
-f:0bc634e2d9d46a01b27356a42b816974:python3-markupsafe/.footprint
+f:91fc7d90a6cdaa60b3d4856832aae2b0:python3-markupsafe/Pkgfile
+f:e9d2af108d16ea994976add9da307c2f:python3-markupsafe/.signature
+f:73552b184e013b6dd63e139d2dd71e87:python3-markupsafe/.footprint
 f:1e9f53acf1ecaae8e61f986c9d3dc071:lm-sensors/README
 f:cb248bae1ff814f1932f5779c496367a:lm-sensors/Pkgfile
 f:baafd6e45e3a40215176cc26ea2b0b97:lm-sensors/.signature
